@@ -1,0 +1,10 @@
+.profile {
+    background: rgb(223,226,240);
+    background: radial-gradient(circle, rgba(223,226,240,0.9724264705882353) 25%, rgba(225,237,249,1) 59%, rgba(204,237,244,0.8827906162464986) 82%);
+    padding: 50px 0;
+}
+
+.formArea {
+    margin: auto;
+    width: 50%;
+}
